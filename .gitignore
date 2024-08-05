@@ -1,0 +1,10 @@
+.vscode
+/build/
+/dist/
+/venv/
+*.txt
+__pycache__
+*.spec
+.env
+\mysql_206
+db.sqlite3
